@@ -1,0 +1,9 @@
+C:\Users\xxref\source\repos\UTB\UTB\bin\Release\UTB.exe.config
+C:\Users\xxref\source\repos\UTB\UTB\bin\Release\UTB.exe
+C:\Users\xxref\source\repos\UTB\UTB\bin\Release\UTB.pdb
+C:\Users\xxref\source\repos\UTB\UTB\obj\Release\UTB.Form1.resources
+C:\Users\xxref\source\repos\UTB\UTB\obj\Release\UTB.Properties.Resources.resources
+C:\Users\xxref\source\repos\UTB\UTB\obj\Release\UTB.csproj.GenerateResource.cache
+C:\Users\xxref\source\repos\UTB\UTB\obj\Release\UTB.csproj.CoreCompileInputs.cache
+C:\Users\xxref\source\repos\UTB\UTB\obj\Release\UTB.exe
+C:\Users\xxref\source\repos\UTB\UTB\obj\Release\UTB.pdb

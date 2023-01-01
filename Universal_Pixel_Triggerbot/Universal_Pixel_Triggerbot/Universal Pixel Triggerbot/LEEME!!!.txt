@@ -1,0 +1,19 @@
+Gracias por descargar mi UTB.
+
+---CÓMO UTILIZAR: Abra UTB.exe ubicado en UTB/bin/Debug/UTB.exe
+
+---CÓDIGO FUENTE: Para ver y/o editar el código, abra el archivo sln ubicado en UTB/UTB.sln
+
+---PARA CAMBIAR TECLADO: Abra el código fuente y vaya a la
+
+línea 53 LÍNEA 53 --> si (GetAsyncKeyState(Keys.RButton) < 0) 
+						^^^^^^^ Edite esto a cualquier clave que desee. 
+
+---PREGUNTAS: 
+Si tienes alguna pregunta, únete a mi discordia: https://discord.gg/jwt2AK8xKr 
+
+---CRÉDITO:
+Gannon R & swedz c#
+
+Gannon R: https://www.youtube.com/c/GannonR
+swedz c#: https://www.youtube.com/c/SwedishTwat

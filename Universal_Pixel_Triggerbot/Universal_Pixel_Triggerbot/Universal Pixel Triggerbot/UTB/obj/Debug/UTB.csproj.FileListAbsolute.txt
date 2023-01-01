@@ -1,0 +1,26 @@
+C:\Users\xxref\source\repos\UTB\UTB\bin\Debug\UTB.exe.config
+C:\Users\xxref\source\repos\UTB\UTB\bin\Debug\UTB.exe
+C:\Users\xxref\source\repos\UTB\UTB\bin\Debug\UTB.pdb
+C:\Users\xxref\source\repos\UTB\UTB\obj\Debug\UTB.csproj.AssemblyReference.cache
+C:\Users\xxref\source\repos\UTB\UTB\obj\Debug\UTB.Form1.resources
+C:\Users\xxref\source\repos\UTB\UTB\obj\Debug\UTB.Properties.Resources.resources
+C:\Users\xxref\source\repos\UTB\UTB\obj\Debug\UTB.csproj.GenerateResource.cache
+C:\Users\xxref\source\repos\UTB\UTB\obj\Debug\UTB.csproj.CoreCompileInputs.cache
+C:\Users\xxref\source\repos\UTB\UTB\obj\Debug\UTB.exe
+C:\Users\xxref\source\repos\UTB\UTB\obj\Debug\UTB.pdb
+C:\Users\xxref\source\repos\UTB\UTB\obj\Debug\UTB.csproj.SuggestedBindingRedirects.cache
+C:\Users\xxref\source\repos\UTB\UTB\bin\Debug\MaterialSkin.dll
+C:\Users\xxref\source\repos\UTB\UTB\obj\Debug\UTB.csproj.CopyComplete
+C:\Users\xxref\Downloads\Universal_Pixel_Triggerbot\Universal Pixel Triggerbot\UTB\bin\Debug\UTB.exe.config
+C:\Users\xxref\Downloads\Universal_Pixel_Triggerbot\Universal Pixel Triggerbot\UTB\bin\Debug\UTB.exe
+C:\Users\xxref\Downloads\Universal_Pixel_Triggerbot\Universal Pixel Triggerbot\UTB\bin\Debug\UTB.pdb
+C:\Users\xxref\Downloads\Universal_Pixel_Triggerbot\Universal Pixel Triggerbot\UTB\bin\Debug\MaterialSkin.dll
+C:\Users\xxref\Downloads\Universal_Pixel_Triggerbot\Universal Pixel Triggerbot\UTB\obj\Debug\UTB.csproj.AssemblyReference.cache
+C:\Users\xxref\Downloads\Universal_Pixel_Triggerbot\Universal Pixel Triggerbot\UTB\obj\Debug\UTB.csproj.SuggestedBindingRedirects.cache
+C:\Users\xxref\Downloads\Universal_Pixel_Triggerbot\Universal Pixel Triggerbot\UTB\obj\Debug\UTB.Form1.resources
+C:\Users\xxref\Downloads\Universal_Pixel_Triggerbot\Universal Pixel Triggerbot\UTB\obj\Debug\UTB.Properties.Resources.resources
+C:\Users\xxref\Downloads\Universal_Pixel_Triggerbot\Universal Pixel Triggerbot\UTB\obj\Debug\UTB.csproj.GenerateResource.cache
+C:\Users\xxref\Downloads\Universal_Pixel_Triggerbot\Universal Pixel Triggerbot\UTB\obj\Debug\UTB.csproj.CoreCompileInputs.cache
+C:\Users\xxref\Downloads\Universal_Pixel_Triggerbot\Universal Pixel Triggerbot\UTB\obj\Debug\UTB.csproj.CopyComplete
+C:\Users\xxref\Downloads\Universal_Pixel_Triggerbot\Universal Pixel Triggerbot\UTB\obj\Debug\UTB.exe
+C:\Users\xxref\Downloads\Universal_Pixel_Triggerbot\Universal Pixel Triggerbot\UTB\obj\Debug\UTB.pdb

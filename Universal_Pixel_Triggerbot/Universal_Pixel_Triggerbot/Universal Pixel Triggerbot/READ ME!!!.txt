@@ -1,0 +1,35 @@
+Thank you for downloading my UTB.
+
+
+---HOW TO USE:
+First enable file extensions in file explorer by going to:
+View > File name extensions. Then Open the UTB.exe located at: UTB/bin/Debug/UTB.exe
+
+FAQ:
+
+---SOURCE CODE:
+To see and/or edit the code, open the .sln file IN VISUAL STUDIO COMMUNITY located at UTB/UTB.sln
+
+also make sure you have .NET and the universal c# development packages installed to visual studio community.
+
+If you already have visual studio community but you dont have the packages, open the visual studio installer and click modify.
+
+Then select the packages and install.
+
+
+---TO CHANGE KEYBIND:
+Default Keybind is Right Mouse Button.
+
+Open the source code, and go to line 53
+
+LINE 53 -->      if (GetAsyncKeyState(Keys.RButton) < 0)
+				           ^^^^^^^Edit this to whatever key you want.
+
+
+---QUESTIONS:
+If you have any questions, join my discord: https://discord.gg/jwt2AK8xKr
+
+
+---CREDIT: Gannon R & swedz c#
+Gannon R: https://www.youtube.com/c/GannonR
+swedz c#: https://www.youtube.com/c/SwedishTwat
